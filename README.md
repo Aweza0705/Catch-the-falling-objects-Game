@@ -17,6 +17,13 @@ Clone or download the repository to your local machine.
 Install Python and Pygame if not already installed:
 pip install pygame
 
+![image](https://github.com/user-attachments/assets/da0a1d14-2e4d-413b-995c-932e961d66de)
+![image](https://github.com/user-attachments/assets/c88d1132-28bd-4a19-9423-e0d937cbc62b)
+![image](https://github.com/user-attachments/assets/44977a51-e838-4069-b22b-f2340b359a47)
+
+
+
+
 
 Run the game:
 python catch_the_falling_objects.py
